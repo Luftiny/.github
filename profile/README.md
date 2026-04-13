@@ -1,6 +1,6 @@
 <h1><img src="https://i.imgur.com/3EjpOaP.png" width="600px" /></h1>
 
-Lufinity is a technology company that develops fast, secure, and modern operating systems.
+Luftiny is a technology company that develops fast, secure, and modern operating systems.
 Our goal is to future-proof the user experience and provide innovative solutions.
 
 ### 🚀 Our Goals:
