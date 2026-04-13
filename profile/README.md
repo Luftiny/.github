@@ -5,7 +5,7 @@ Our goal is to future-proof the user experience and provide innovative solutions
 
 <h3 align="center">Working On:</h3>
 <p align="center">
-  <img src="https://i.imgur.com/g2qBatF.png" width="50px" area-label="Lumenflux/Lumenflux-zen" />
+  <img src="https://i.imgur.com/g2qBatF.png" area-label="Lumenflux/Lumenflux-zen" width="50px" />
   <img src="https://i.imgur.com/agwekX9.png" width="50px" area-label="PebbleUI/PebbleUI-Lite" />
   <img src="https://i.imgur.com/g2qBatF.png" width="50px" area-label="SolsticeOS" />
   <img src="https://i.imgur.com/g2qBatF.png" width="50px" area-label="SolsticeOS Server" />
