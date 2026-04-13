@@ -1,4 +1,4 @@
-# Luftiny
+<h1><img src="https://i.imgur.com/3EjpOaP.png" /></h1>
 
 Lufinity is a technology company that develops fast, secure, and modern operating systems.
 Our goal is to future-proof the user experience and provide innovative solutions.
