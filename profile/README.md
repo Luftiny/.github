@@ -1,4 +1,7 @@
-<h1 align="center">LUFTINY TECHLONOGIES</h1>
+<h1 align="center">
+  <img src="https://i.imgur.com/K5ECrAd.png">
+  LUFTINY TECHLONOGIES
+</h1>
 
 <p align="center">Luftiny is a technology company that develops fast, secure, and modern operating systems.
 Our goal is to future-proof the user experience and provide innovative solutions.</p>
