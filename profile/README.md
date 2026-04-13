@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://i.imgur.com/K5ECrAd.png" width="50px">
   LUFTINY TECHLONOGIES
 </h1>
 
