@@ -10,7 +10,7 @@ Our goal is to future-proof the user experience and provide innovative solutions
   <a href="https://github.com/Luftiny/Lumenflux-zen"><img src="https://i.imgur.com/ZKqKKLd.png" width="64px"></a>
   <a href="https://github.com/Luftiny/PebbleUI"><img src="https://i.imgur.com/J3IoNvB.png" width="64px"></a>
   <a href="https://github.com/Luftiny/PebbleUI-Lite"><img src="https://i.imgur.com/qMYaAuv.png" width="64px"></a>
-  <a href="https://github.com/Luftiny/SolsticeOS"><img src="https://i.imgur.com/51AOMQc.png" width="64px"></a>
-  <a href="https://github.com/Luftiny/Solstice-Server"><img src="https://i.imgur.com/PUB6oMs.png" width="64px"></a>
+  <a href="https://github.com/Luftiny/SolsticeOS"><img src="https://i.imgur.com/NbxnpbK.png" width="64px"></a>
+  <a href="https://github.com/Luftiny/Solstice-Server"><img src="https://i.imgur.com/cQkXW3y.png" width="64px"></a>
 </p>
 <h1></h1>
