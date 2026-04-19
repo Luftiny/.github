@@ -1,5 +1,5 @@
 <h1 align="center">
-  TEKNOANKA
+  TeknoAnka
 </h1>
 
 <p align="center">Luftiny is a technology company that develops fast, secure, and modern operating systems.
